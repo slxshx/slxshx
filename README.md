@@ -1,18 +1,14 @@
 ## Hi there 👋
 - My name is Leon, I'm 25 from germany
-- I've always had a passion for IT and especially programming
-- I started my education to become a software dev this year (this.)
+- I'm interested in all sorts of things
+- I will upload my own projects here, only the one's that are worth sharing though
 
-## I'm currently learning 📚:
-- C#
-- Python
-- PHP 
-- Shopware
+## Currently Working on 🧑🏻‍💻
+- 
+
+
 
 ## Github Stats 📊:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=slxshx&show_icons=true&theme=radical)
 
-## Plans 2025 📝:
-- Getting comfortable with C# so I can start game dev in Unity
-- Increase frontend knowledge, especially js
-- Less syntax errors x)
+
