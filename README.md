@@ -4,7 +4,7 @@
 - I will upload my own projects here, only the one's that are worth sharing though
 
 ## Currently Working on 🧑🏻‍💻
-- ![https://github.com/slxshx/mission-control] My own customized dashboard 🌍
+- [My own customized dashboard 🌍] (https://github.com/slxshx/mission-control)
 
 
 
