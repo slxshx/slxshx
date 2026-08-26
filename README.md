@@ -9,6 +9,6 @@
 
 
 ## Github Stats 📊:
-![Anurag's GitHub stats](https://github-readme-stats-qudlokg3d-slxshx.vercel.app/api?show_icons=true&theme=radical&username=slxshx)
+![Anurag's GitHub stats](https://github-readme-stats-qudlokg3d-slxshx.vercel.app/api?show_icons=true&theme=radical&username=slxshx&v=2)
 
 
