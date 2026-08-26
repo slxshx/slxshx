@@ -9,5 +9,5 @@
 
 
 ## Github Stats 📊:
-![GitHub Stats](./profile/stats.svg)
+![GitHub Stats](profile/stats.svg)
 
