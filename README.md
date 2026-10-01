@@ -7,8 +7,6 @@
 - [My own customized dashboard 🌍](https://github.com/slxshx/mission-control)
 - [University Monitoring Service 🎓](https://github.com/slxshx/CampusHub)
 
-3
-
 ## Github Stats 📊:
 ![GitHub Stats](profile/stats.svg)
 
