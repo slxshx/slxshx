@@ -4,7 +4,9 @@
 - I will upload my own projects here, only the one's that are worth sharing though
 
 ## Currently Working on 🧑🏻‍💻
-- [My own customized dashboard 🌍](https://github.com/slxshx/mission-control)
+- [HTTP-Server in C](https://github.com/slxshx/HTTP-Server)
+
+## Done:
 - [University Monitoring Service 🎓](https://github.com/slxshx/CampusHub)
 
 ## Github Stats 📊:
